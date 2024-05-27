@@ -1,4 +1,5 @@
-[![MasterHead](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)](https://rishavchanda.io)
+<img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="MasterHead">
+
 <h1 align="center">👋Hello World , It's me Mohammed Abdullah</h1>
 <h3 align="center">A nomad in the realm of Tech , An admirer of creative works and A problem solver.</h3>
 
