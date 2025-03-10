@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://www.hackerrank.com/m7_abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m7_abdullah" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/smok3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="smok3" height="30" width="40" /></a>
-<a href="[https://your-portfolio-link.com](https://mo7ammed-abdullah.github.io/My-Portfolio/My%20Portfolio%20Web/)" target="_blank">🌐 My Portfolio</a>
 
 </p>
 
