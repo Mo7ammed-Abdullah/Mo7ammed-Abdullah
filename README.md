@@ -8,6 +8,7 @@
 - 👁️ Specialize in **Computer Vision**: image classification, object detection, and segmentation
 - 🤗 Share models and work on **Hugging Face**
 - 🌱 Always curious and building things to learn
+- 🌐 Know more about me: [portfolio-mohammed-abdullah.vercel.app](https://portfolio-mohammed-abdullah.vercel.app/)
 - 📫 Reach me at [mohammed567abdullah@gmail.com](mailto:mohammed567abdullah@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
